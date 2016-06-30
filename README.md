@@ -1,5 +1,5 @@
 # Perceptrons
 
-Website oficial do primeiro livro digital da saga Networks
+Website oficial do primeiro livro digital da saga *Networks*
 
 Sinopse:
